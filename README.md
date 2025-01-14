@@ -26,14 +26,6 @@ Here is a sample image of the gift packet:
 ### 3. Paste the Script:
 Copy and paste the [JavaScript code](https://github.com/MfademReal/Bale-packet-auto-opener/blob/main/main/main.js) into the console:
 
-
-// Set an interval to continuously check for new buttons
-const intervalId = setInterval(autoClickAndClose, 1000); // Check every second
-
-// Log how to stop the script
-console.log('Auto-click and close modal script started. To stop it, type clearInterval(intervalId) in the console.');
-
-
 ### 4. Start the Script:
 Once the script is pasted into the console, it will automatically start checking for available buttons to click. The script will continuously search for new gift packet buttons every second.
 
