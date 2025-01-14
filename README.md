@@ -11,7 +11,7 @@ This script is designed to automatically open gift packets on the Bale platform 
 ## Sample Image of Gift Packet:
 Here is a sample image of the gift packet:
 
-![Sample Gift Packet](https://123123131.51231/55456.img)
+![Sample Gift Packet](https://raw.githubusercontent.com/MfademReal/Bale-packet-auto-opener/refs/heads/main/main/packet.png)
 
 ## How to Use:
 
@@ -24,7 +24,7 @@ Here is a sample image of the gift packet:
 - **For Edge:** Press `F12` and click on the "Console" tab.
 
 ### 3. Paste the Script:
-Copy and paste the following JavaScript code into the console:
+Copy and paste the [JavaScript code](https://github.com/MfademReal/Bale-packet-auto-opener/blob/main/main/main.js) into the console:
 
 
 // Set an interval to continuously check for new buttons
